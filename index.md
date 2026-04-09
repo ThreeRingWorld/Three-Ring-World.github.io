@@ -1,3 +1,49 @@
+<style>
+  body {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.6;
+    color: #1a1a1a;
+    background-color: #fafafa;
+  }
+  h1 {
+    color: #2c3e50;
+    border-bottom: 2px solid #eaecef;
+    padding-bottom: 0.3em;
+  }
+  h2 {
+    color: #2c3e50;
+    margin-top: 1.5em;
+  }
+  a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 1em 0;
+  }
+  th, td {
+    border: 1px solid #dfe2e5;
+    padding: 8px 12px;
+    text-align: left;
+  }
+  th {
+    background-color: #f6f8fa;
+  }
+  code {
+    background-color: #f6f8fa;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+    font-family: monospace;
+  }
+</style>
 # 《序一论：三环》—— 一项关于自指、边界与存在必然性的原创哲学研究
 
 
