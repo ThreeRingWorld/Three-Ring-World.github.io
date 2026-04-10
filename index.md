@@ -1,21 +1,17 @@
 <style>
   body {
-    max-width: 800px;
+    max-width: 860px;
     margin: 0 auto;
     padding: 2rem;
-    font-family: system-ui, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
-    line-height: 1.6;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    line-height: 1.7;
     color: #1a1a1a;
-    background-color: #fafafa;
+    background: #fafafa;
   }
-  h1 {
+  h1, h2, h3 {
     color: #2c3e50;
-    border-bottom: 2px solid #eaecef;
+    border-bottom: 1px solid #eaecef;
     padding-bottom: 0.3em;
-  }
-  h2 {
-    color: #2c3e50;
-    margin-top: 1.5em;
   }
   a {
     color: #0366d6;
@@ -27,26 +23,34 @@
   table {
     border-collapse: collapse;
     width: 100%;
-    margin: 1em 0;
+    margin: 1rem 0;
   }
   th, td {
     border: 1px solid #dfe2e5;
-    padding: 8px 12px;
+    padding: 0.6rem 1rem;
     text-align: left;
   }
   th {
-    background-color: #f6f8fa;
+    background: #f6f8fa;
+    font-weight: 600;
   }
   code {
-    background-color: #f6f8fa;
-    padding: 0.2em 0.4em;
+    background: #f6f8fa;
+    padding: 0.2rem 0.4rem;
     border-radius: 3px;
     font-family: monospace;
+  }
+  .markdown-body {
+    background: white;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
   }
 </style>
 # 《序一论：三环》—— 一项关于自指、边界与存在必然性的原创哲学研究
 
-哲学主流确实偏向实践自指，然而理性自指其实与实践自指同效力。
+哲学主流确实偏向实践自指，然而理性自指其实与实践自指同效力。什么是自指呢?要从逻辑的悖论说起。
+
 逻辑悖论（如“这句话是假的”）是所有“有边界信息”系统的必然病症。现实本身没有悖论因为现实是无边界的。本书以“自指”为唯一工具，从理性的第一性自指选择、推导出“有无”“平缩”“异同”三环结构，以此解释存在何以稳定、意识何以可能、物理定律何以如此。
 
 ## 三个核心术语（通俗版）
