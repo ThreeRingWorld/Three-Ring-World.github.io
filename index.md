@@ -69,7 +69,7 @@
 
 ## 样章下载
 
-- [《纯粹自指：三环全文》(PDF)](./chunsanb.pdf)
+- [《纯粹自指：三环全文》(PDF)](./chunsanc.pdf)
 - [《有无环》样章 (PDF)](./youwuhuan.pdf)
 - [《序论与自指原理（部分）》样章 (PDF)](./zizhi.pdf)
 - 《序一论公开第七版全文》见https://doi.org/10.5281/zenodo.19556485
