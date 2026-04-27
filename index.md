@@ -69,7 +69,7 @@
 
 ## 全文下载
 
-- [《纯粹自指：三环全文》(PDF)](./chunsanc.pdf)
+- [《纯粹自指：三环全文》(PDF)](./chunsand.pdf)
 - 《序一论公开第七版全文》见https://doi.org/10.5281/zenodo.19556485
 
 
